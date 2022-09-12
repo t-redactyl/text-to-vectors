@@ -2,6 +2,7 @@
 import pandas as pd
 import numpy as np
 import spacy
+import en_core_web_sm
 
 from keras import models, layers
 

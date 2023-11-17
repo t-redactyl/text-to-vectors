@@ -1,10 +1,10 @@
 # Contains a series of auxillary functions for text processing notebooks
 import pandas as pd
 import numpy as np
-import spacy
-import en_core_web_sm
+#import spacy
+#import en_core_web_sm
 
-from keras import models, layers
+#from keras import models, layers
 
 
 def apply_string_cleaning(dataset: pd.Series) -> pd.Series:
